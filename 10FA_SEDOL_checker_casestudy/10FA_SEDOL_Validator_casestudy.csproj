@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_10FA_SEDOL_Validator_casestudy</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SedolValidatorInterfaces\SedolValidatorInterfaces.csproj" />
+  </ItemGroup>
+
+</Project>
